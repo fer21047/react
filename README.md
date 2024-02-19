@@ -1,38 +1,35 @@
-# LOGIN EN EL FRAMEWORK REACT
+# COMANDOS NECESARIOS PARA EJECUTAR EL LOGIN DE REACT
 
 ## Documentación 
 
-## 💻 Crear un nuevo proyecto de react
-En el Visual Studio Code abrir la terminal 
+## Creacion del proyecto en react
+En una terminal de Visual Studio Code
 
 Usa el comando 
 - ```npx create-react-app nombre_del_proyecto```
 
-## 🧩 Dependencias
-<h2 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h2>
+## Para las ependencias
+<h2 align="center"> 2.Instalaciones necesarias para el proyecto</h2>
 
-**Descargar los node modules.**
+**Para descargar los node modules.**
 
 - ```npm install```
   
-**Uso de la notificaciones de alerta.**
+**Herramientas para el uso de la notificaciones de alerta.**
 - ```npm i react-toastify```
   
-**Implementar el routing.**
+**Para implementar el routing**
 - ```npm install react-router-dom```
 
 
-Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
+En otra terminal de Visual Studio Code para utilizar el json-server 
 
 - ```json-server --watch db.json --port 8000```
 
 **Esto para definir el puerto del *JSON Server***
 
 
-## 🌐 Desplejar el proyecto
+## Para la ejecucion del proyecto
 Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
 - ```npm start```
-
-
-
-**Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee**
+**Aqui fnalizan las herramientas para la configuracion del proyecto**
