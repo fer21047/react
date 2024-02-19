@@ -1,12 +1,7 @@
 # COMANDOS NECESARIOS PARA EJECUTAR EL LOGIN DE REACT
-
+**Para Clonar el proyecto se pone lo siguiente en el Bash de git que se debe de tener descargado**
+- ```git clone ```
 ## Documentación 
-
-## Creacion del proyecto en react
-En una terminal de Visual Studio Code
-
-Usa el comando 
-- ```npx create-react-app nombre_del_proyecto```
 
 ## Para las ependencias
 <h2 align="center"> 2.Instalaciones necesarias para el proyecto</h2>
